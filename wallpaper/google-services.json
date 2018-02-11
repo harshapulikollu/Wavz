@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "186691412453",
+    "firebase_url": "https://wavz-67561.firebaseio.com",
+    "project_id": "wavz-67561",
+    "storage_bucket": "wavz-67561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186691412453:android:1bee5ae59f76e946",
+        "android_client_info": {
+          "package_name": "com.sharkapps.wavz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186691412453-fftn3as8nbgq05nasu73i3ah1iamvneo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXeKiBjhUOTlf5SZGTP50Gz10BA6BO2G0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
